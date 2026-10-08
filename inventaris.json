@@ -1,0 +1,14 @@
+[
+    {
+        "id": "A01",
+        "nama": "Tas Laptop",
+        "jumlah": 20,
+        "harga": 150000
+    },
+    {
+        "id": "A02",
+        "nama": "Case Hp",
+        "jumlah": 20,
+        "harga": 20000
+    }
+]
